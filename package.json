@@ -1,0 +1,26 @@
+{
+    "name": "lol",
+    "displayName": "LOLCODE",
+    "description": "LOLCODE Language Support for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "arwinneil",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "lolcode",
+            "aliases": ["Lolcode", "lolcode"],
+            "extensions": [".lol",".lols"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "lolcode",
+            "scopeName": "source.lol",
+            "path": "./syntaxes/lol.tmLanguage"
+        }]
+    }
+}
