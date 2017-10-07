@@ -4,8 +4,15 @@
     "description": "LOLCODE Language Support for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "arwinneil",
+	"license": "MIT",
+	"icon": "images/logo.png",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/arwinneil/vscode-lolcode"
+	},
     "engines": {
         "vscode": "^1.17.0"
+	
     },
     "categories": [
         "Languages"
