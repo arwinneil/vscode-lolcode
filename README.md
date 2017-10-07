@@ -1,4 +1,4 @@
-## LOLCODE Support for Visual Studio Code <img src="images/logo.png" align="right" width="50">
+## LOLCODE Support for Visual Studio Code 
 
 An extension for VS Code which provides support for the LOLCODE esoteric language.
 
@@ -14,5 +14,9 @@ Open any .lol or .lols  file in VS Code. The extension is now activated.
 ## Release Notes
 ### 1.0.0
 - Initial Release
+
+## LICENSE
+[MIT](LICENSE.md)
+
 
 **Enjoy!**
