@@ -20,7 +20,7 @@
     "contributes": {
         "languages": [{
             "id": "lolcode",
-            "aliases": ["Lolcode", "lolcode"],
+            "aliases": ["LOLCODE","Lolcode", "lolcode"],
             "extensions": [".lol",".lols"],
             "configuration": "./language-configuration.json"
         }],

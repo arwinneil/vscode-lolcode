@@ -9,9 +9,9 @@ An extension for VS Code which provides support for the LOLCODE esoteric languag
 
 ## How to use this extension?
 
-Install and open Visual Studio Code. Press Ctrl+Shift+X or Cmd+Shift+X to open the Extensions pane. Find and install the LOLCODE extension. You can also install the extension from the Marketplace. 
+Install and open Visual Studio Code. Press ```Ctrl+Shift+X``` to open the Extensions pane. Find and install the LOLCODE extension. You can also install the extension from the Marketplace. 
 
-Open any .lol or .lols  file in VS Code. 
+Open any .lol or .lols  file in VS Code or press ```Ctrl+K M``` and select Lolcode.
 ## Release Notes
 ### 1.0.0
 - Initial Release
