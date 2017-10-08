@@ -1,7 +1,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](http://vsmarketplacebadge.apphb.com/version/arwinneil.lolcode.svg)
-![Installs](http://vsmarketplacebadge.apphb.com/installs/arwinneil.lolcode.svg)
-![Rating](http://vsmarketplacebadge.apphb.com/rating-short/arwinneil.lolcode.svg)
+![Version](https://vsmarketplacebadge.apphb.com/version/arwinneil.lolcode.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/arwinneil.lolcode.svg)
+![Rating](https://vsmarketplacebadge.apphb.com/rating-short/arwinneil.lolcode.svg)
 ## LOLCODE Support for Visual Studio Code 
 
 An extension for VS Code which provides support for the LOLCODE esoteric language.
